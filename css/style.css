@@ -41,25 +41,26 @@ body {
 
 /* nawigacja */
 .navbar-brand {
-    font-size: 2.2rem;
+    font-size: 1.5rem;
     text-transform: uppercase;
 }
 
 .nav-link, .navbar-toggler-icon {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     text-transform: uppercase;
 }
 
 .navbar-toggler {
-    padding: 1em 2em;
+	padding: 1em 2em;
 }
+
 
 /* sekcja powitalna */
 
 .home {
     position: relative;
     height: 60rem;
-    background: url('../assets/img/welcome_section.jpg') center/cover;
+    background: url('/assets/img/welcome_section.jpg') center/cover;
     z-index: 0;
 }
 
