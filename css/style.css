@@ -60,7 +60,7 @@ body {
 .home {
     position: relative;
     height: 60rem;
-    background-image: url('../assets/img/welcome_section.jpg');
+    background-image: url('/assets/img/welcome_section.jpg');
 	background-size: cover;
 	background-position: center;
     z-index: 0;
